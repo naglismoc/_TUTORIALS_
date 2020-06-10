@@ -1,0 +1,1 @@
+iniciavimas ir scope
